@@ -15,6 +15,18 @@
         </e>
         <e p="Program.cs" t="Include" />
       </e>
+      <e p="Fourth" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Fourth.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="Fourth.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
       <e p="packages" t="ExcludeRecursive" />
       <e p="Second" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />

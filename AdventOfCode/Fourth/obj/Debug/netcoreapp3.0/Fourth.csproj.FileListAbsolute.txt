@@ -1,0 +1,11 @@
+C:\git\AdventOfCode2019\AdventOfCode\Fourth\bin\Debug\netcoreapp3.0\Fourth.exe
+C:\git\AdventOfCode2019\AdventOfCode\Fourth\bin\Debug\netcoreapp3.0\Fourth.deps.json
+C:\git\AdventOfCode2019\AdventOfCode\Fourth\bin\Debug\netcoreapp3.0\Fourth.runtimeconfig.json
+C:\git\AdventOfCode2019\AdventOfCode\Fourth\bin\Debug\netcoreapp3.0\Fourth.runtimeconfig.dev.json
+C:\git\AdventOfCode2019\AdventOfCode\Fourth\bin\Debug\netcoreapp3.0\Fourth.dll
+C:\git\AdventOfCode2019\AdventOfCode\Fourth\bin\Debug\netcoreapp3.0\Fourth.pdb
+C:\git\AdventOfCode2019\AdventOfCode\Fourth\obj\Debug\netcoreapp3.0\Fourth.csprojAssemblyReference.cache
+C:\git\AdventOfCode2019\AdventOfCode\Fourth\obj\Debug\netcoreapp3.0\Fourth.AssemblyInfoInputs.cache
+C:\git\AdventOfCode2019\AdventOfCode\Fourth\obj\Debug\netcoreapp3.0\Fourth.AssemblyInfo.cs
+C:\git\AdventOfCode2019\AdventOfCode\Fourth\obj\Debug\netcoreapp3.0\Fourth.dll
+C:\git\AdventOfCode2019\AdventOfCode\Fourth\obj\Debug\netcoreapp3.0\Fourth.pdb
