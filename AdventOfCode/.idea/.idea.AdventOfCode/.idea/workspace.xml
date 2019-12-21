@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d71eb2d-534e-4bb9-ab5f-8719530c251e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AdventOfCode/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AdventOfCode/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode.sln" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/First/bin/Debug/netcoreapp3.0/First.dll" beforeDir="false" afterPath="$PROJECT_DIR$/First/bin/Debug/netcoreapp3.0/First.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/First/bin/Debug/netcoreapp3.0/First.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/First/bin/Debug/netcoreapp3.0/First.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/First/obj/Debug/netcoreapp3.0/First.dll" beforeDir="false" afterPath="$PROJECT_DIR$/First/obj/Debug/netcoreapp3.0/First.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/First/obj/Debug/netcoreapp3.0/First.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/First/obj/Debug/netcoreapp3.0/First.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AdventOfCode/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +16,8 @@
     <setting file="file://$PROJECT_DIR$/Third/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Second/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Fourth/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../First/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/First/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Fourth/obj/Debug/netcoreapp3.0/Fourth.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -32,6 +27,7 @@
         <option value="$PROJECT_DIR$/Second/Program.cs" />
         <option value="$PROJECT_DIR$/Third/Program.cs" />
         <option value="$PROJECT_DIR$/Fourth/Program.cs" />
+        <option value="$PROJECT_DIR$/.idea/.gitignore" />
       </list>
     </option>
   </component>
@@ -131,7 +127,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576952065761</updated>
-      <workItem from="1576952068913" duration="11619000" />
+      <workItem from="1576952068913" duration="11898000" />
     </task>
     <task id="LOCAL-00001" summary="Puts all projects in one solution for simplicity">
       <created>1576958998734</created>
@@ -140,7 +136,21 @@
       <option name="project" value="LOCAL" />
       <updated>1576958998734</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updates git ignore">
+      <created>1576968949435</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576968949435</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updates git ignore">
+      <created>1576968960305</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576968960305</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,7 +169,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Puts all projects in one solution for simplicity" />
-    <option name="LAST_COMMIT_MESSAGE" value="Puts all projects in one solution for simplicity" />
+    <MESSAGE value="Updates git ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updates git ignore" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1236" height="136" key="GridCell.Tab.0.bottom" timestamp="1576968688491">
@@ -246,10 +257,10 @@
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
     <state x="1238" y="330" key="Rider.ProjectTemplateDialog.Size/0.0.2194.1194@0.0.2194.1194" timestamp="1576959168315" />
-    <state x="690" y="331" key="Vcs.Push.Dialog.v2" timestamp="1576959011805">
+    <state x="690" y="331" key="Vcs.Push.Dialog.v2" timestamp="1576968962510">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state x="690" y="331" key="Vcs.Push.Dialog.v2/0.0.2194.1194@0.0.2194.1194" timestamp="1576959011805" />
+    <state x="690" y="331" key="Vcs.Push.Dialog.v2/0.0.2194.1194@0.0.2194.1194" timestamp="1576968962510" />
     <state x="1217" y="269" width="672" height="678" key="search.everywhere.popup" timestamp="1576961111357">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
