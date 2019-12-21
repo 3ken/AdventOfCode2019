@@ -1,0 +1,11 @@
+C:\git\AdventOfCode2019\Third\third\Third\bin\Debug\netcoreapp3.0\Third.exe
+C:\git\AdventOfCode2019\Third\third\Third\bin\Debug\netcoreapp3.0\Third.deps.json
+C:\git\AdventOfCode2019\Third\third\Third\bin\Debug\netcoreapp3.0\Third.runtimeconfig.json
+C:\git\AdventOfCode2019\Third\third\Third\bin\Debug\netcoreapp3.0\Third.runtimeconfig.dev.json
+C:\git\AdventOfCode2019\Third\third\Third\bin\Debug\netcoreapp3.0\Third.dll
+C:\git\AdventOfCode2019\Third\third\Third\bin\Debug\netcoreapp3.0\Third.pdb
+C:\git\AdventOfCode2019\Third\third\Third\obj\Debug\netcoreapp3.0\Third.csprojAssemblyReference.cache
+C:\git\AdventOfCode2019\Third\third\Third\obj\Debug\netcoreapp3.0\Third.AssemblyInfoInputs.cache
+C:\git\AdventOfCode2019\Third\third\Third\obj\Debug\netcoreapp3.0\Third.AssemblyInfo.cs
+C:\git\AdventOfCode2019\Third\third\Third\obj\Debug\netcoreapp3.0\Third.dll
+C:\git\AdventOfCode2019\Third\third\Third\obj\Debug\netcoreapp3.0\Third.pdb

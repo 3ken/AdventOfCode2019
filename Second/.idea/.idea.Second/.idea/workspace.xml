@@ -1,12 +1,25 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b418a947-628d-4434-af09-637766194676" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="b418a947-628d-4434-af09-637766194676" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Third/third/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Second/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Second/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Second/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Second/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Second/obj/Debug/netcoreapp3.0/Second.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Second/obj/Debug/netcoreapp3.0/Second.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Second/obj/Debug/netcoreapp3.0/Second.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Second/obj/Debug/netcoreapp3.0/Second.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Second/obj/Second.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Second/obj/Second.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Second/obj/Second.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Second/obj/Second.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Second/obj/Second.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Second/obj/Second.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Second/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Second/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Second/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Second/obj/project.packagespec.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Second/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -19,22 +32,18 @@
     </option>
   </component>
   <component name="ProjectId" id="1URTW9cC3pZkwqya5euPTjvhQdE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.4" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
@@ -56,6 +65,21 @@
       </method>
     </configuration>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b418a947-628d-4434-af09-637766194676" name="Default Changelist" comment="" />
@@ -64,11 +88,12 @@
       <option name="presentableId" value="Default" />
       <updated>1575318437610</updated>
       <workItem from="1575318440080" duration="7899000" />
+      <workItem from="1576935835910" duration="993000" />
     </task>
     <servers />
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
