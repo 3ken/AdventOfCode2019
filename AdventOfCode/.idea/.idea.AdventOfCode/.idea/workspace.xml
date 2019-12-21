@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d71eb2d-534e-4bb9-ab5f-8719530c251e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AdventOfCode/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AdventOfCode/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdventOfCode.sln" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First/bin/Debug/netcoreapp3.0/First.dll" beforeDir="false" afterPath="$PROJECT_DIR$/First/bin/Debug/netcoreapp3.0/First.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First/bin/Debug/netcoreapp3.0/First.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/First/bin/Debug/netcoreapp3.0/First.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First/obj/Debug/netcoreapp3.0/First.dll" beforeDir="false" afterPath="$PROJECT_DIR$/First/obj/Debug/netcoreapp3.0/First.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First/obj/Debug/netcoreapp3.0/First.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/First/obj/Debug/netcoreapp3.0/First.pdb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Third/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Second/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Fourth/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../First/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/First/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Program.cs" />
+        <option value="$PROJECT_DIR$/First/Program.cs" />
+        <option value="$PROJECT_DIR$/Second/Program.cs" />
+        <option value="$PROJECT_DIR$/Third/Program.cs" />
+        <option value="$PROJECT_DIR$/Fourth/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VIshpCy94erRNod6lj34aBiz1h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.4" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected=".NET Project.Fourth">
+    <configuration name="AdventOfCode" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/First.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="First" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/First/bin/Debug/netcoreapp3.0/First.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/First/bin/Debug/netcoreapp3.0" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/First/First.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.0" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fourth" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Fourth/bin/Debug/netcoreapp3.0/Fourth.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fourth/bin/Debug/netcoreapp3.0" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Fourth/Fourth.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.0" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.Fourth" />
+        <item itemvalue=".NET Project.First" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d71eb2d-534e-4bb9-ab5f-8719530c251e" name="Default Changelist" comment="" />
+      <created>1576952065761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576952065761</updated>
+      <workItem from="1576952068913" duration="11619000" />
+    </task>
+    <task id="LOCAL-00001" summary="Puts all projects in one solution for simplicity">
+      <created>1576958998734</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576958998734</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Puts all projects in one solution for simplicity" />
+    <option name="LAST_COMMIT_MESSAGE" value="Puts all projects in one solution for simplicity" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1236" height="136" key="GridCell.Tab.0.bottom" timestamp="1576968688491">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1236" height="136" key="GridCell.Tab.0.bottom/0.0.2194.1194@0.0.2194.1194" timestamp="1576968688491" />
+    <state width="1236" height="136" key="GridCell.Tab.0.center" timestamp="1576968688491">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1236" height="136" key="GridCell.Tab.0.center/0.0.2194.1194@0.0.2194.1194" timestamp="1576968688491" />
+    <state width="1236" height="136" key="GridCell.Tab.0.left" timestamp="1576968688491">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1236" height="136" key="GridCell.Tab.0.left/0.0.2194.1194@0.0.2194.1194" timestamp="1576968688491" />
+    <state width="1236" height="136" key="GridCell.Tab.0.right" timestamp="1576968688491">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1236" height="136" key="GridCell.Tab.0.right/0.0.2194.1194@0.0.2194.1194" timestamp="1576968688491" />
+    <state width="1236" height="142" key="GridCell.Tab.1.bottom" timestamp="1576966499251">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1236" height="142" key="GridCell.Tab.1.bottom/0.0.2194.1194@0.0.2194.1194" timestamp="1576966499251" />
+    <state width="1236" height="142" key="GridCell.Tab.1.center" timestamp="1576966499251">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1236" height="142" key="GridCell.Tab.1.center/0.0.2194.1194@0.0.2194.1194" timestamp="1576966499251" />
+    <state width="1236" height="142" key="GridCell.Tab.1.left" timestamp="1576966499251">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1236" height="142" key="GridCell.Tab.1.left/0.0.2194.1194@0.0.2194.1194" timestamp="1576966499251" />
+    <state width="1236" height="142" key="GridCell.Tab.1.right" timestamp="1576966499251">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1236" height="142" key="GridCell.Tab.1.right/0.0.2194.1194@0.0.2194.1194" timestamp="1576966499251" />
+    <state width="1236" height="142" key="GridCell.Tab.2.bottom" timestamp="1576966499251">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1236" height="142" key="GridCell.Tab.2.bottom/0.0.2194.1194@0.0.2194.1194" timestamp="1576966499251" />
+    <state width="1236" height="142" key="GridCell.Tab.2.center" timestamp="1576966499251">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1236" height="142" key="GridCell.Tab.2.center/0.0.2194.1194@0.0.2194.1194" timestamp="1576966499251" />
+    <state width="1236" height="142" key="GridCell.Tab.2.left" timestamp="1576966499251">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1236" height="142" key="GridCell.Tab.2.left/0.0.2194.1194@0.0.2194.1194" timestamp="1576966499251" />
+    <state width="1236" height="142" key="GridCell.Tab.2.right" timestamp="1576966499251">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1236" height="142" key="GridCell.Tab.2.right/0.0.2194.1194@0.0.2194.1194" timestamp="1576966499251" />
+    <state width="1236" height="142" key="GridCell.Tab.3.bottom" timestamp="1576966499251">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1236" height="142" key="GridCell.Tab.3.bottom/0.0.2194.1194@0.0.2194.1194" timestamp="1576966499251" />
+    <state width="1236" height="142" key="GridCell.Tab.3.center" timestamp="1576966499251">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1236" height="142" key="GridCell.Tab.3.center/0.0.2194.1194@0.0.2194.1194" timestamp="1576966499251" />
+    <state width="1236" height="142" key="GridCell.Tab.3.left" timestamp="1576966499251">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1236" height="142" key="GridCell.Tab.3.left/0.0.2194.1194@0.0.2194.1194" timestamp="1576966499251" />
+    <state width="1236" height="142" key="GridCell.Tab.3.right" timestamp="1576966499251">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1236" height="142" key="GridCell.Tab.3.right/0.0.2194.1194@0.0.2194.1194" timestamp="1576966499251" />
+    <state width="1236" height="142" key="GridCell.Tab.4.bottom" timestamp="1576966499251">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1236" height="142" key="GridCell.Tab.4.bottom/0.0.2194.1194@0.0.2194.1194" timestamp="1576966499251" />
+    <state width="1236" height="142" key="GridCell.Tab.4.center" timestamp="1576966499251">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1236" height="142" key="GridCell.Tab.4.center/0.0.2194.1194@0.0.2194.1194" timestamp="1576966499251" />
+    <state width="1236" height="142" key="GridCell.Tab.4.left" timestamp="1576966499251">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1236" height="142" key="GridCell.Tab.4.left/0.0.2194.1194@0.0.2194.1194" timestamp="1576966499251" />
+    <state width="1236" height="142" key="GridCell.Tab.4.right" timestamp="1576966499251">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1236" height="142" key="GridCell.Tab.4.right/0.0.2194.1194@0.0.2194.1194" timestamp="1576966499251" />
+    <state x="1238" y="330" key="Rider.ProjectTemplateDialog.Size" timestamp="1576959168315">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="1238" y="330" key="Rider.ProjectTemplateDialog.Size/0.0.2194.1194@0.0.2194.1194" timestamp="1576959168315" />
+    <state x="690" y="331" key="Vcs.Push.Dialog.v2" timestamp="1576959011805">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="690" y="331" key="Vcs.Push.Dialog.v2/0.0.2194.1194@0.0.2194.1194" timestamp="1576959011805" />
+    <state x="1217" y="269" width="672" height="678" key="search.everywhere.popup" timestamp="1576961111357">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="1217" y="269" width="672" height="678" key="search.everywhere.popup/0.0.2194.1194@0.0.2194.1194" timestamp="1576961111357" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Fourth/Program.cs</url>
+          <line>10</line>
+          <properties documentPath="$PROJECT_DIR$/Fourth/Program.cs" initialLine="14">
+            <startOffsets>
+              <option value="173" />
+            </startOffsets>
+            <endOffsets>
+              <option value="207" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
